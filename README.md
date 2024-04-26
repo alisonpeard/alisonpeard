@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a DPhil Student and Oxford Environmental Change Institute and part of the Oxford Programme for Sustainable Infrastructure Solutions (OPSIS). I'm working on deep learning methods for estimating coastal flood hazards over large scales using deep generative modelling and extreme value theory.
+I'm a DPhil Student and Oxford Environmental Change Institute and part of the Oxford Programme for Sustainable Infrastructure Solutions (OPSIS). I'm currently working on deep learning methods for estimating coastal flood hazards over large scales using deep generative modelling and extreme value theory.
 <!--
 **alisonpeard/alisonpeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
